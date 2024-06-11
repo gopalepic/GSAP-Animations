@@ -3,7 +3,7 @@ body{
     width: 100%;
 }
 
-#page1{
+#page1 h1{
     height: 100%;
     width: 100%;
     background-color: aqua;
@@ -12,4 +12,21 @@ body{
     height: 100%;
     width: 100%;
     background-color: red;
+    
+}
+#page3{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+#page3 h1{
+    height: 100%;
+}
+
+#page2 h1{
+    font-size: 40vw;
+    text-transform: uppercase;
+    font-family: 800;
+    
 }
